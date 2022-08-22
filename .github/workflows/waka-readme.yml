@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # Runs every hour
     - cron: '0 * * * *'
 
 jobs:
