@@ -4,5 +4,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongyisheng&layout=compact)
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gongyisheng/count.svg)
-### Wakatime Stats 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gongyisheng)
+### Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
