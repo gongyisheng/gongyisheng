@@ -4,6 +4,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongyisheng&layout=compact)
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gongyisheng/count.svg)
-### Weekly Development Breakdown
+### Monthly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
