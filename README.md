@@ -8,16 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 06 September 2022
+From: 08 August 2022 - To: 07 September 2022
 
-Total Time: 27 hrs 24 mins
+Total Time: 31 hrs 26 mins
 
-Python       17 hrs 56 mins  ████████████████▒░░░░░░░░   65.49 %
-Bash         7 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-JSON         1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python       21 hrs 27 mins  █████████████████░░░░░░░░   68.22 %
+Bash         7 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+Markdown     1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+JSON         1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
