@@ -8,16 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 20 September 2022
+From: 22 August 2022 - To: 21 September 2022
 
-Total Time: 59 hrs 6 mins
+Total Time: 60 hrs 53 mins
 
-Python       40 hrs 24 mins  █████████████████░░░░░░░░   68.36 %
-Bash         9 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-Markdown     4 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-JSON         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Java         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Text         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python       42 hrs 5 mins   █████████████████▒░░░░░░░   69.14 %
+Bash         9 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Markdown     4 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+JSON         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Java         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Text         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
