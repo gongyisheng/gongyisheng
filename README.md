@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 01 November 2022
+From: 03 October 2022 - To: 02 November 2022
 
-Total Time: 73 hrs 4 mins
+Total Time: 72 hrs 27 mins
 
-Python       54 hrs 18 mins  ██████████████████▓░░░░░░   74.31 %
-Markdown     9 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Go           3 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Other        2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Python       54 hrs 9 mins   ██████████████████▓░░░░░░   74.75 %
+Markdown     9 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Go           3 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Other        2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
