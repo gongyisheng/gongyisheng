@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2022 - To: 21 November 2022
+From: 23 October 2022 - To: 22 November 2022
 
-Total Time: 74 hrs 48 mins
+Total Time: 77 hrs 4 mins
 
-Python             51 hrs 52 mins  █████████████████▒░░░░░░░   69.35 %
-Other              7 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Python             52 hrs 55 mins  █████████████████▒░░░░░░░   68.68 %
+Other              7 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
 ```
 
 <!--END_SECTION:waka-->
