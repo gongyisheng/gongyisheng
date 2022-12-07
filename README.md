@@ -8,12 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 04 December 2022
+From: 05 November 2022 - To: 05 December 2022
 
-Total Time: 103 hrs 12 mins
+Total Time: 103 hrs 18 mins
 
-Python             56 hrs 43 mins  █████████████▓░░░░░░░░░░░   54.97 %
-C++                30 hrs 33 mins  ███████▒░░░░░░░░░░░░░░░░░   29.61 %
+Python             54 hrs 40 mins  █████████████▒░░░░░░░░░░░   52.93 %
+C++                31 hrs 48 mins  ███████▓░░░░░░░░░░░░░░░░░   30.79 %
+Markdown           6 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 Other              5 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
