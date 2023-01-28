@@ -8,16 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 25 January 2023
+From: 27 December 2022 - To: 26 January 2023
 
-Total Time: 87 hrs 42 mins
+Total Time: 89 hrs 58 mins
 
-Python             79 hrs 49 mins  ██████████████████████▓░░   91.00 %
-Markdown           4 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-C                  57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-YAML               54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Text               40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-HTML               18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python             83 hrs 27 mins  ███████████████████████▒░   92.74 %
+Markdown           4 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+C                  57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Text               40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+HTML               16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Bash               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
