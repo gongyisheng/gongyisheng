@@ -8,16 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 January 2023 - To: 13 February 2023
+From: 15 January 2023 - To: 14 February 2023
 
-Total Time: 117 hrs 42 mins
+Total Time: 114 hrs 13 mins
 
-Python             106 hrs 46 mins ██████████████████████▓░░   90.71 %
-Text               4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Markdown           4 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Bash               1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-C                  57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Other              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python             102 hrs 55 mins ██████████████████████▓░░   90.10 %
+Text               4 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown           4 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Bash               1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C                  57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
