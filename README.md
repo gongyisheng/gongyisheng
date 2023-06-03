@@ -7,16 +7,16 @@
 ### Monthly Development Breakdown
 <!--START_SECTION:waka-->
 
-```text
-From: 01 May 2023 - To: 31 May 2023
+```txt
+From: 02 May 2023 - To: 01 June 2023
 
-Total Time: 59 hrs 54 mins
+Total Time: 64 hrs 50 mins
 
-Python       45 hrs 8 mins   ███████████████████░░░░░░   75.37 %
-Markdown     11 hrs 6 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-Text         1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-SQL          1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-E-mail       17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python                     47 hrs 57 mins  ██████████████████▒░░░░░░   73.95 %
+Markdown                   12 hrs 22 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Text                       2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+SQL                        1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Bash                       31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
