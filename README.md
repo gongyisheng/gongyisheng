@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 28 June 2023
+From: 30 May 2023 - To: 29 June 2023
 
-Total Time: 98 hrs 17 mins
+Total Time: 107 hrs 29 mins
 
-Python                     78 hrs 35 mins  ████████████████████░░░░░   79.96 %
-Markdown                   7 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Text                       7 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Go                         2 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Bash                       38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python                     85 hrs 54 mins  ████████████████████░░░░░   79.91 %
+Markdown                   8 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Text                       7 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Go                         3 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Bash                       36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
