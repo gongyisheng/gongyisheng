@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2023 - To: 31 August 2023
+From: 02 August 2023 - To: 01 September 2023
 
-Total Time: 71 hrs 38 mins
+Total Time: 74 hrs 15 mins
 
-Python           39 hrs          █████████████▓░░░░░░░░░░░   54.44 %
-Rust             11 hrs 35 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-Go               10 hrs 4 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Markdown         6 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-YAML             2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Python           38 hrs 11 mins  █████████████░░░░░░░░░░░░   51.42 %
+Go               13 hrs 43 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+Rust             11 hrs 35 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+Markdown         6 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+YAML             2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
