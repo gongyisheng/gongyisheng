@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 07 October 2023
+From: 08 September 2023 - To: 08 October 2023
 
-Total Time: 66 hrs 16 mins
+Total Time: 63 hrs 34 mins
 
-Go           29 hrs 47 mins  ███████████▒░░░░░░░░░░░░░   44.94 %
-Markdown     20 hrs 23 mins  ███████▓░░░░░░░░░░░░░░░░░   30.78 %
-Python       12 hrs 23 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-Rust         1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-TOML         49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Go           28 hrs 2 mins   ███████████░░░░░░░░░░░░░░   44.11 %
+Markdown     19 hrs 38 mins  ███████▓░░░░░░░░░░░░░░░░░   30.88 %
+Python       12 hrs 35 mins  █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Rust         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TOML         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
