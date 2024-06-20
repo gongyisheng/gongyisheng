@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2024 - To: 17 June 2024
+From: 19 May 2024 - To: 18 June 2024
 
-Total Time: 54 hrs 25 mins
+Total Time: 55 hrs 39 mins
 
-Python       41 hrs 27 mins  ███████████████████░░░░░░   76.17 %
-Markdown     6 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-YAML         3 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-C            1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Text         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Python       42 hrs 40 mins  ███████████████████▒░░░░░   76.67 %
+Markdown     6 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+YAML         3 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+C            1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Text         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
