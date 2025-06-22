@@ -8,9 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 19 June 2025
+From: 21 May 2025 - To: 20 June 2025
 
-Total Time: 6 hrs 22 mins
+Total Time: 6 hrs 21 mins
 
 Python     5 hrs 28 mins   █████████████████████▒░░░   85.94 %
 YAML       35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
