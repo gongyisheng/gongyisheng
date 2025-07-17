@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2025 - To: 14 July 2025
+From: 15 June 2025 - To: 15 July 2025
 
-Total Time: 23 hrs 19 mins
+Total Time: 27 hrs 43 mins
 
-Python       13 hrs 46 mins  ██████████████▓░░░░░░░░░░   59.07 %
-Markdown     6 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-YAML         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-HTML         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-TOML         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Python       15 hrs 56 mins  ██████████████▒░░░░░░░░░░   57.51 %
+Markdown     7 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
+HTML         1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+YAML         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+TOML         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
